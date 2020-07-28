@@ -4,7 +4,7 @@
 </p>
 
 ---
-✨ I'm a frontend developer based in Lagos Nigeria. I’m passionate about making the web flexible for everyone to use. 	✨ 
+✨ I'm a frontend developer based in Lagos Nigeria. I’m passionate about making the web flexible for everyone to use.
 When I'm not coding you can find me playing video games, watching movies, listening to music and hanging out with friends and i almost forgot sleeping becuase i dont joke with my 8 hrs.	I’d love to collaborate on projects and work with a team of profeesionals to gain more experience and to improve my skills.
 
 - 😄 My Pronouns:
