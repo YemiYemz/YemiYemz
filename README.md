@@ -1,21 +1,13 @@
-### Hi there! I'm Akinyemi Odebunmi
+<h3 align="center">👋 Hi there! I'm Akinyemi Odebunmi </h3>	<h3 align="center">
+   <a href="https://twitter.com/akinyemiopemipo">Twitter</a>
+</p>
 
-
-<!--
-**YemiYemz/YemiYemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-HI, I'M AKINYEMI ODEBUNMI.
-A FRONTEDND DEVELOPER.
-I am a creative Front-end developer who love working on diverse projects.
-Outside work i love listening to good music and playing video games.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... a Figma project
-- 🌱 I’m currently learning ... Frontend and Figma
-- 👯 I’m looking to collaborate on ... various Frontend and Figma Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... @akinyemiopemipo
-- 😄 Pronouns: ... His/Him
-- ⚡ Fun fact: ... i love listening to Music, watching Tv shows and Movies and playing video games
--->
+---
+✨ I'm a frontend developer based in Lagos Nigeria. I’m passionate about making the web flexible for everyone to use. 	✨ 
+When I'm not coding you can find me playing video games, watching movies, listening to music and hanging out with friends and i almost forgot sleeping becuase i dont joke with my 8 hrs.	I’d love to collaborate on projects and work with a team of profeesionals to gain more experience and to improve my skills.
+- 😄 My Pronouns:    	  
+- 💬 Ask me about:
+- 📫 How to reach me: [@akinyemiopemipo](https://twitter.com/akinyemiopemipo)	
+- ⚡ Fun fact:
+<!--	<!--
+**akinyemiopemipo/akinyemiopemipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
