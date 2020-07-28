@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! I'm Akinyemi Odebunmi
+
 HI, I'M AKINYEMI ODEBUNMI.
 A FRONTEDND DEVELOPER.
 I am a creative Front-end developer who love working on diverse projects.
